@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a FastAPI-Next.js repo
 
 ### git clone https://github.com/suzuyu33z/Practical_10.git
@@ -18,3 +19,7 @@ This is a FastAPI-Next.js repo
 - npm run dev
 
 ■ http://localhost:3000/customers にアクセス
+=======
+# プロジェクト概要
+
+このプロジェクトは FastAPI + Next.js を用いた社内ダッシュボードの構築用です。
